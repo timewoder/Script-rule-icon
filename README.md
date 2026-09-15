@@ -52,20 +52,20 @@
 
 适用于Loon Quanx fileball Senplayer
 ```
-https://raw.githubusercontent.com/mutu5012/Script-rule-icon/refs/heads/main/icon/lige47/ligeicon.json
+https://raw.githubusercontent.com/timewoder/Script-rule-icon/refs/heads/main/icon/lige47/ligeicon.json
 ```
 
 适用于surge
 ```
-https://raw.githubusercontent.com/mutu5012/Script-rule-icon/refs/heads/main/icon/lige47/ligeicon-surge.json
+https://raw.githubusercontent.com/timewoder/Script-rule-icon/refs/heads/main/icon/lige47/ligeicon-surge.json
 ```
 
 emby专属图标库（适用于fileball Senplayer）
 ```
-https://raw.githubusercontent.com/mutu5012/Script-rule-icon/refs/heads/main/icon/lige47/lige-emby-icon.json
+https://raw.githubusercontent.com/timewoder/Script-rule-icon/refs/heads/main/icon/lige47/lige-emby-icon.json
 ```
 
 ### fmz200图标库
  ```
-https://raw.githubusercontent.com/mutu5012/Script-rule-icon/refs/heads/main/icon/fmz200/icons-all.json
+https://raw.githubusercontent.com/timewoder/Script-rule-icon/refs/heads/main/icon/fmz200/icons-all.json
  ```
